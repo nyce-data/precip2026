@@ -2,7 +2,7 @@
 
 This is the organizers' hub for the precipitation data risk workshop, held on Zoom on Tuesday and Wednesday, December 15 and 16, 2026, from 12:00 to 3:00 PM Eastern. AGU's Global Data Resilience Project and the New York Climate Exchange are convening it, in cooperation with the Keeling Curve Foundation.
 
-The site is a single page, `index.html`, with no build step. It links to the team's Google Drive files, the sign-up form, and the Claude documents.
+The site is a single page, `index.html`, with no build step. It links to the team's Google Drive files and the sign-up form.
 
 ## Publish on GitHub Pages
 
